@@ -1,0 +1,5 @@
+rel/cowboysample
+*.dump
+*.beam
+*.app
+deps
